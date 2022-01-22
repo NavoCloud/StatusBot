@@ -1,0 +1,19 @@
+{
+	"discord_token": "ODkxMTY0NjE4MjIxODM0MjQw.YU6Xug.5nkFuMHCwTtWWb7q2t4UBH1WG5I",
+    "discord_channel": "891164737021288479",
+    "discord_webhook": "https://discord.com/api/webhooks/891164922115932160/97r-Q1CF3YWOganatILUJssv7PiAxO2kqD7b6hfnGDKMC38zil-dvbGJHLW9rTVmH_pM",
+    "panel_link": "https://panel.navocloud.com",
+    "admin_apikey": "yzD6SMqTCQQYEK1k9XZuLHF3wwfzVQ9SNO3eCe6m0eT2g7be",
+    
+    "node_name": "Game-de01",
+    "embed_title": "NavoCloud Node Status",
+    "embed_color": "#0000ff",
+    "embed_footer": "NavoCloud",
+    "online_emoji": "🟢",
+    "offline_emoji": "🔴",
+    "embed_thumbnail": "https://media.discordapp.net/attachments/891023430940520460/903749587519565874/Screenshot_20211006-121040-removebg-preview_1-1-removebg-preview.png",
+    
+
+    "node_total_status": "**Total Nodes**:\n{nodes.list}\n\n**Total Usage**:\n```Memory: {memory.used}/{memory.total}\nDisk: {disk.used}/{disk.total}\nCPU Cores: {cores.total}```\n\n**Panel Stats:**\n```Users: {pterodactyl.users}\nServers: {pterodactyl.servers}```",
+    "node_status": "{node.status} **{node.name}**:\n```Memory: {node.memory.used}/{node.memory.total}\nDisk: {node.disk.used}/{node.disk.total}\nCPU cores: {node.cpu.cores}\nCPU Model: {node.cpu}\nCPU Usage: {node.cpu.used}\nOS System: {node.os}```"
+}
