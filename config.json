@@ -14,6 +14,6 @@
     "embed_thumbnail": "https://media.discordapp.net/attachments/891023430940520460/903749587519565874/Screenshot_20211006-121040-removebg-preview_1-1-removebg-preview.png",
     
 
-    "node_total_status": "**Total Nodes**:\n{nodes.list}\n\n**Total Usage**:\n```Memory: {memory.used}/{memory.total}\nCPU Cores: {cores.total}```\n\n**Panel Stats:**\n```Users: {pterodactyl.users}\nServers: {pterodactyl.servers}```",
+    "node_total_status": "**Total Nodes**:\n{nodes.list}\n\n**Total Usage**:\n```Memory: {memory.used}/{memory.total}\nCPU Cores: {cores.total}```\n\n**Panel Stats:**\n```Users: {pterodactyl.users}\nServers: {pterodactyl.servers}```\n\n**Check uptime:**\n**https://status.navocloud.com/**",
     "node_status": "{node.status} **{node.name}**:\n```Memory: {node.memory.used}/{node.memory.total}\nCPU cores: {node.cpu.cores}\nCPU Model: {node.cpu}\nCPU Usage: {node.cpu.used}\nOS System: {node.os}```"
 }
