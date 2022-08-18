@@ -2,7 +2,7 @@
     "discord_token": "DISCORD BOT TOKEN GOES HERE",
     "discord_channel": "THE CHANNEL YOU WANT THE EMBED IN",
     "discord_webhook": "IF YOU WOULD LIKE TO ADD WEBHOOKS FOR OUTAGES",
-    "panel_link": "YOUR PTERODACTYL PANEL LINK,
+    "panel_link": "YOUR PTERODACTYL PANEL LINK",
     "admin_apikey": "PTERODACTYL ADMIN API KEY",
     
     "node_name": "BlueBerry",
